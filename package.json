@@ -1,6 +1,6 @@
 {
   "name": "datasets-iris-virginica",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Edgar Anderson's data for Iris virginica.",
   "author": {
     "name": "Athan Reines",
